@@ -5,7 +5,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/gaspardderoyan/test-conda.git
    cd your-repo
    ```
 
